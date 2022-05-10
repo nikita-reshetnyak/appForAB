@@ -1,0 +1,39 @@
+
+.photo-item{
+    border: 1px solid #333;
+    border-radius: 12px;
+    max-width: 600px;
+    position: relative;
+
+}
+.photo-item__inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.btn-delete{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 16px;
+    text-decoration: underline;
+    background: transparent;
+    border: 0;
+}
+.like-btn{
+    color: #ccc;
+}
+.selected{
+    color: red;
+}
+.not-selected{
+    color: black;
+}
+
+.photo-item__btns{
+    display: flex;
+    justify-content:flex-end;
+   
+   
+}
