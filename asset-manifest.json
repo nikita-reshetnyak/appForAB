@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/appForAB/static/css/main.974d4826.css",
+    "main.js": "/appForAB/static/js/main.72e6abef.js",
+    "index.html": "/appForAB/index.html",
+    "main.974d4826.css.map": "/appForAB/static/css/main.974d4826.css.map",
+    "main.72e6abef.js.map": "/appForAB/static/js/main.72e6abef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974d4826.css",
+    "static/js/main.72e6abef.js"
+  ]
+}
